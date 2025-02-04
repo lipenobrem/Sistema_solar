@@ -1,0 +1,77 @@
+.imagem-container-Sol {
+    width: 60%;
+    height: 100vh; /* Ajuste essa altura conforme necessário */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.Sol {
+    /* Ajuste a largura e a altura conforme necessário para exibir a imagem sem cortes */
+    width: 70%;
+    height: 80%;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+  
+.imagem-container-Mercurio {
+    width: 60%;
+    height: 100vh; /* Ajuste essa altura conforme necessário */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Mercurio {
+    width: 70%;
+    height: 80%;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+
+.imagem-container-Vênus {
+    width: 55%;
+    height: 100vh; /* Ajuste essa altura conforme necessário */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Vênus {
+    width: 80%;
+    height: 80%;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+
+.imagem-container-Terra {
+    width: 50%;
+    height: 100vh; /* Ajuste essa altura conforme necessário */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Terra {
+    width: 70%;
+    height: 71%;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+}
+
+.PRX {
+    display: flex;
+    justify-content: left;
+    margin: 20px;
+    bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: rgb(126, 28, 218);
+    color: darkviolet;
+    background-color: rgba(0, 0, 0, 0.349);
+    cursor: pointer;
+}
